@@ -4,8 +4,6 @@ I’m a **Junior AI/ML Engineer** with a background in **Biomedical Engineering*
 
 ---
 
----
-
 ## 🔭 Current Focus Areas
 - Integrating **AI with nanotechnology/nanomedicine**  
 - Building **machine learning & GNN models**  
